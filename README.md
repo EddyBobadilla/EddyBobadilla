@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddyBobadilla
-- 👀 I’m interested in modern web development. 
-- 🌱 I’m currently learning: React, Sass, and Bootstrap, while always trying to get better at the fundamentals (HTML, CSS, JS). In the near future I want to begin learning either Ruby or Python.
-- 💞️ I’m looking to collaborate on any web based projects that will challenge me to be a better web developer. 
+- 👀 I’m interested in Cyber Security and Ethical Hacking
+- 🌱 I’m currently learning: Python, Go, Bash, and PowerShell
+- 💞️ I’m looking to further my education and career in cyber security!
 - 📫 How to reach me: EddyBobadilla.com | EddyBobadilla91@Gmail.com | and here on GitHub :)
 
 <!---
